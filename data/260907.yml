@@ -5,7 +5,7 @@ about:
   head: c7509e2
   archived: false
   latestVersion: "v2.31.2"
-  collectedAt: 2026-09-07T06:12:45Z
+  collectedAt: 2026-09-07T18:24:35Z
 timeline:
   created: 2017-02-23
   lastCommit: 2026-08-25
@@ -89,7 +89,7 @@ total:
   commit: 10774
 ---
 path: /home/runner/.x-repo/github.com/telepresenceio/telepresence
-collectedAt: 2026-09-07T06:12:52Z
+collectedAt: 2026-09-07T18:24:41Z
 loc:
   Go:
     code: 137572
@@ -360,7 +360,7 @@ checks:
       - 'Info:   0 out of   1 goCommand dependencies pinned'
 ---
 eget:
-  collectedAt: 2026-09-07T06:12:53+00:00
+  collectedAt: 2026-09-07T18:24:41+00:00
   platform:
     darwin/arm64:
       name:  telepresence-darwin-arm64.pkg
