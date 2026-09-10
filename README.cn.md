@@ -1,62 +1,62 @@
 # telepresence
 
-[中文版本](./README.cn.md)
+[English version](./README.md)
 
 Local development against a remote Kubernetes or OpenShift cluster
 
-![telepresence](https://repo.x-cmd.io/telepresence.svg)
+![telepresence](https://repo.x-cmd.io/telepresence.svg?lang=zh)
 
-## Install
+## 安装
 
 ```sh
 x install telepresence
 ```
 
-## Code insight
+## 代码规模
 
-Total: **153,093** lines of code across **1055** files in the top 5 languages.
+合计: **153,093** 行代码（覆盖前 5 种语言、共 **1055** 个文件）。
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
 | Go | 137,572 | 20,161 | 17,963 | 964 |
 | Yaml | 8,587 | 402 | 144 | 77 |
 | Svg | 1,764 | 0 | 0 | 2 |
 | Json | 1,579 | 0 | 0 | 4 |
 | Protobuf | 964 | 744 | 509 | 8 |
 
-## OpenSSF Scorecard
+## OpenSSF Scorecard 评分
 
-Overall score: **5.5 / 10**
+总评分: **5.5 / 10**
 
-Lowest-scoring checks:
+评分最低的几项:
 
 - **Code-Review** (0/10) — Found 0/3 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Fuzzing** (0/10) — project is not fuzzed
 
-## Source
+## 源代码
 
-- **Upstream**: <https://github.com/telepresenceio/telepresence>
-- **Homepage**: <https://www.telepresence.io>
-- **License**: Apache-2.0
+- **上游仓库**: <https://github.com/telepresenceio/telepresence>
+- **官网**: <https://www.telepresence.io>
+- **许可证**: Apache-2.0
 
-## Release
+## 发布
 
-- **Latest**: `v2.31.2` (2026-08-02)
-- **Last commit**: 2026-08-25
-- **Assets in release**: 17
+- **最新版本**: `v2.31.2` (2026-08-02)
+- **最近提交**: 2026-08-25
+- **Release 含资产**: 17 个
 
-## Popularity
+## 流行度
 
-- **Stars**: 7,296 · **Forks**: 580 · **Open issues**: 2,055 · **Contributors**: 116
+- **Star**: 7,296 · **Fork**: 580 · **开放 issue**: 2,055 · **贡献者**: 116
 
-## Totals (cumulative)
+## 累计统计
 
-- **Releases**: 80 · **Merged PRs**: 1833 · **Open PRs**: 15 · **Closed issues**: 2043 · **Open issues**: 12 · **Commits**: 10774
+- **发布数**: 80 · **已合并 PR**: 1833 · **开放 PR**: 15 · **已关闭 issue**: 2043 · **开放 issue**: 12 · **提交数**: 10774
 
-## Recent activity
+## 最近活动
 
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 6 | 1 | 1 | 3 | 8 |
 | last60d | 2026-07-12 | 5 | 46 | 15 | 4 | 5 | 310 |
@@ -65,10 +65,10 @@ Lowest-scoring checks:
 | 360d | 2025-09-15 | 24 | 181 | 15 | 73 | 5 | 1134 |
 | last720d | 2024-09-20 | 48 | 295 | 15 | 206 | 8 | 1884 |
 
-## Release assets
+## Release 资产
 
-| Asset | Size | Target |
-|-------|-----:|--------|
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
 | [telepresence-2.31.2-linux-amd64.deb](https://github.com/telepresenceio/telepresence/releases/download/v2.31.2/telepresence-2.31.2-linux-amd64.deb) | 35.2 MiB | `native/linux/x64` |
 | [telepresence-2.31.2-linux-amd64.rpm](https://github.com/telepresenceio/telepresence/releases/download/v2.31.2/telepresence-2.31.2-linux-amd64.rpm) | 36.8 MiB | `native/linux/x64` |
 | [telepresence-2.31.2-linux-arm64.deb](https://github.com/telepresenceio/telepresence/releases/download/v2.31.2/telepresence-2.31.2-linux-arm64.deb) | 32.4 MiB | `native/linux/arm64` |
@@ -87,22 +87,22 @@ Lowest-scoring checks:
 | [telepresence-windows-amd64.zip](https://github.com/telepresenceio/telepresence/releases/download/v2.31.2/telepresence-windows-amd64.zip) | 31.7 MiB | `native/win/x64` |
 | [telepresence-windows-arm64.zip](https://github.com/telepresenceio/telepresence/releases/download/v2.31.2/telepresence-windows-arm64.zip) | 28.5 MiB | `native/win/arm64` |
 
-## Distribution status
+## 发行版状态
 
-Reported by **66** distros on [repology.org](https://repology.org/project/telepresence). **3** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+在 [repology.org](https://repology.org/project/telepresence) 上共有 **66** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**7** 个 ⚠️ 使用旧版本。
 
-| Distro | Version | Status |
-|--------|---------|--------|
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
 | Nix unstable | `0.109` | 🪦 legacy |
 | Void | `2.20.3` | ⚠️ outdated |
 
-## Improve this data
+## 改进这些数据
 
-Install metadata for telepresence lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `telepresence` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+telepresence 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `telepresence` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
 
-- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/telepresence.yml> (or whichever path the index uses)
+- **提交 issue**: <https://github.com/x-cmd/install/issues/new>
+- **编辑包条目**: <https://github.com/x-cmd/install/edit/main/telepresence.yml>（或索引实际使用的路径）
 
-The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:04:12Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:04:12Z._
