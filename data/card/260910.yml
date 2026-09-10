@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.31.2"
   latestRelease: "v2.31.2"
   latestPrerelease: "v2.27.2-rc.0"
-  collectedAt: 2026-09-10T21:03:44Z
+  collectedAt: 2026-09-10T22:47:31Z
 timeline:
   created: 2017-02-23
   lastCommit: 2026-08-25
@@ -93,7 +93,7 @@ total:
   commit: 10774
 ---
 path: /home/runner/.x-repo/github.com/telepresenceio/telepresence
-collectedAt: 2026-09-10T21:03:55Z
+collectedAt: 2026-09-10T22:47:39Z
 loc:
   Go:
     code: 137572
