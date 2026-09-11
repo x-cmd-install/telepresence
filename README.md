@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,296 · **Forks**: 580 · **Open issues**: 2,055 · **Contributors**: 116
+- **Stars**: 7,297 · **Forks**: 580 · **Open issues**: 2,055 · **Contributors**: 116
 
 ## Totals (cumulative)
 
@@ -105,4 +105,4 @@ Install metadata for telepresence lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T06:25:50Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T18:23:58Z._
