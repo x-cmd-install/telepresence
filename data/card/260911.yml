@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.31.2"
   latestRelease: "v2.31.2"
   latestPrerelease: "v2.27.2-rc.0"
-  collectedAt: 2026-09-11T06:25:35Z
+  collectedAt: 2026-09-11T18:23:44Z
 timeline:
   created: 2017-02-23
   lastCommit: 2026-08-25
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-02
   lastPrerelease: 2026-03-09
 popularity:
-  star: 7296
+  star: 7297
   watcher: 56
   fork: 580
   release: 80
@@ -93,7 +93,7 @@ total:
   commit: 10774
 ---
 path: /home/runner/.x-repo/github.com/telepresenceio/telepresence
-collectedAt: 2026-09-11T06:25:41Z
+collectedAt: 2026-09-11T18:23:50Z
 loc:
   Go:
     code: 137572
