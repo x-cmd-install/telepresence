@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,297 · **Forks**: 580 · **Open issues**: 2,055 · **Contributors**: 116
+- **Stars**: 7,298 · **Forks**: 580 · **Open issues**: 2,055 · **Contributors**: 116
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 0 | 2 | 1 | 1 | 3 | 8 |
-| last60d | 2026-07-13 | 5 | 45 | 15 | 4 | 5 | 310 |
-| 90d | 2026-06-13 | 9 | 74 | 15 | 10 | 5 | 534 |
-| last180d | 2026-03-15 | 12 | 121 | 15 | 32 | 5 | 720 |
-| 360d | 2025-09-16 | 24 | 181 | 15 | 72 | 5 | 1134 |
-| last720d | 2024-09-21 | 48 | 295 | 15 | 206 | 8 | 1884 |
+| 30d | 2026-08-13 | 0 | 2 | 1 | 1 | 2 | 8 |
+| last60d | 2026-07-14 | 5 | 44 | 15 | 4 | 5 | 310 |
+| 90d | 2026-06-14 | 9 | 74 | 15 | 10 | 5 | 534 |
+| last180d | 2026-03-16 | 12 | 121 | 15 | 32 | 5 | 720 |
+| 360d | 2025-09-17 | 24 | 181 | 15 | 72 | 5 | 1134 |
+| last720d | 2024-09-22 | 48 | 295 | 15 | 206 | 8 | 1884 |
 
 ## Release assets
 
@@ -105,4 +105,4 @@ Install metadata for telepresence lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T18:23:58Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T06:10:43Z._
