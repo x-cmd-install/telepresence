@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,299 · **Forks**: 580 · **Open issues**: 2,055 · **Contributors**: 116
+- **Stars**: 7,301 · **Forks**: 580 · **Open issues**: 2,055 · **Contributors**: 116
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 2 | 1 | 1 | 2 | 7 |
-| last60d | 2026-07-15 | 4 | 44 | 15 | 4 | 5 | 227 |
-| 90d | 2026-06-15 | 9 | 73 | 15 | 10 | 5 | 508 |
-| last180d | 2026-03-17 | 12 | 121 | 15 | 32 | 5 | 711 |
-| 360d | 2025-09-18 | 24 | 181 | 15 | 72 | 5 | 1111 |
-| last720d | 2024-09-23 | 48 | 294 | 15 | 204 | 8 | 1884 |
+| 30d | 2026-08-15 | 0 | 2 | 1 | 1 | 2 | 7 |
+| last60d | 2026-07-16 | 4 | 44 | 15 | 4 | 5 | 227 |
+| 90d | 2026-06-16 | 9 | 72 | 15 | 10 | 5 | 508 |
+| last180d | 2026-03-18 | 12 | 121 | 15 | 31 | 5 | 711 |
+| 360d | 2025-09-19 | 24 | 180 | 15 | 72 | 5 | 1111 |
+| last720d | 2024-09-24 | 48 | 294 | 15 | 204 | 8 | 1881 |
 
 ## Release assets
 
@@ -87,15 +87,6 @@ Lowest-scoring checks:
 | [telepresence-windows-amd64.zip](https://github.com/telepresenceio/telepresence/releases/download/v2.31.2/telepresence-windows-amd64.zip) | 31.7 MiB | `native/win/x64` |
 | [telepresence-windows-arm64.zip](https://github.com/telepresenceio/telepresence/releases/download/v2.31.2/telepresence-windows-arm64.zip) | 28.5 MiB | `native/win/arm64` |
 
-## Distribution status
-
-Reported by **66** distros on [repology.org](https://repology.org/project/telepresence). **3** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `0.109` | 🪦 legacy |
-| Void | `2.20.3` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for telepresence lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `telepresence` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -105,4 +96,4 @@ Install metadata for telepresence lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T06:27:58Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:48:25Z._
