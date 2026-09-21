@@ -14,15 +14,15 @@ x install telepresence
 
 ## Code insight
 
-Total: **157,435** lines of code across **1071** files in the top 5 languages.
+Total: **158,089** lines of code across **1071** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 141,895 | 20,591 | 18,403 | 980 |
-| Yaml | 8,606 | 402 | 157 | 77 |
+| Go | 142,493 | 20,619 | 18,473 | 980 |
+| Yaml | 8,660 | 402 | 144 | 77 |
 | Svg | 1,764 | 0 | 0 | 2 |
 | Json | 1,579 | 0 | 0 | 4 |
-| Protobuf | 964 | 744 | 509 | 8 |
+| Protobuf | 966 | 749 | 511 | 8 |
 
 ## OpenSSF Scorecard
 
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2.31.2` (2026-08-02)
+- **Latest**: `v2.32.0-rc.0` (2026-08-02)
 - **Last commit**: 2026-09-20
 - **Assets in release**: 17
 
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 80 · **Merged PRs**: 1837 · **Open PRs**: 13 · **Closed issues**: 2044 · **Open issues**: 13 · **Commits**: 10804
+- **Releases**: 81 · **Merged PRs**: 1845 · **Open PRs**: 11 · **Closed issues**: 2044 · **Open issues**: 13 · **Commits**: 10828
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 0 | 4 | 1 | 1 | 2 | 24 |
-| last60d | 2026-07-22 | 3 | 39 | 13 | 5 | 5 | 229 |
-| 90d | 2026-06-22 | 8 | 73 | 13 | 10 | 6 | 527 |
-| last180d | 2026-03-24 | 12 | 124 | 13 | 29 | 6 | 733 |
-| 360d | 2025-09-25 | 24 | 182 | 13 | 72 | 6 | 1108 |
-| last720d | 2024-09-30 | 48 | 298 | 13 | 203 | 9 | 1909 |
+| 30d | 2026-08-22 | 1 | 8 | 3 | 1 | 2 | 44 |
+| last60d | 2026-07-23 | 3 | 47 | 11 | 5 | 5 | 254 |
+| 90d | 2026-06-23 | 9 | 77 | 11 | 10 | 6 | 552 |
+| last180d | 2026-03-25 | 13 | 131 | 11 | 29 | 6 | 758 |
+| 360d | 2025-09-26 | 25 | 190 | 11 | 71 | 6 | 1133 |
+| last720d | 2024-10-01 | 49 | 306 | 11 | 203 | 9 | 1920 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for telepresence lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T06:29:23Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T06:38:33Z._
