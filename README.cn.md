@@ -4,7 +4,7 @@
 
 Local development against a remote Kubernetes or OpenShift cluster
 
-[![x-cmd/install — telepresence Code Quality Monitoring Repo Card](https://repo.x-cmd.io/telepresence.svg?lang=zh)](https://x-cmd.com/install/telepresence)
+[![x-cmd/install — telepresence Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/telepresence.svg?lang=zh)](https://x-cmd.com/install/telepresence)
 
 ## 安装
 
@@ -14,11 +14,11 @@ x install telepresence
 
 ## 代码洞察
 
-合计: **158,089** 行代码（覆盖前 5 种语言、共 **1071** 个文件）。
+合计: **158,138** 行代码（覆盖前 5 种语言、共 **1072** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 142,493 | 20,619 | 18,473 | 980 |
+| Go | 142,542 | 20,619 | 18,479 | 981 |
 | Yaml | 8,660 | 402 | 144 | 77 |
 | Svg | 1,764 | 0 | 0 | 2 |
 | Json | 1,579 | 0 | 0 | 4 |
@@ -42,8 +42,8 @@ x install telepresence
 
 ## 发布
 
-- **最新版本**: `v2.32.0-rc.0` (2026-08-02)
-- **最近提交**: 2026-09-20
+- **最新版本**: `v2.32.0-rc.2` (2026-08-02)
+- **最近提交**: 2026-09-22
 - **Release 含资产**: 17 个
 
 ## 流行度
@@ -52,18 +52,18 @@ x install telepresence
 
 ## 累计统计
 
-- **发布数**: 81 · **已合并 PR**: 1850 · **开放 PR**: 11 · **已关闭 issue**: 2044 · **开放 issue**: 13 · **提交数**: 10828
+- **发布数**: 83 · **已合并 PR**: 1854 · **开放 PR**: 11 · **已关闭 issue**: 2044 · **开放 issue**: 13 · **提交数**: 10830
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 13 | 3 | 1 | 2 | 44 |
-| last60d | 2026-07-24 | 3 | 52 | 11 | 5 | 5 | 254 |
-| 90d | 2026-06-24 | 9 | 82 | 11 | 10 | 6 | 552 |
-| last180d | 2026-03-26 | 13 | 136 | 11 | 29 | 6 | 758 |
-| 360d | 2025-09-27 | 25 | 194 | 11 | 71 | 6 | 1133 |
-| last720d | 2024-10-02 | 49 | 310 | 11 | 203 | 8 | 1913 |
+| 30d | 2026-08-24 | 3 | 16 | 3 | 0 | 2 | 46 |
+| last60d | 2026-07-25 | 5 | 56 | 11 | 5 | 5 | 256 |
+| 90d | 2026-06-25 | 10 | 86 | 11 | 9 | 6 | 554 |
+| last180d | 2026-03-27 | 15 | 140 | 11 | 29 | 6 | 760 |
+| 360d | 2025-09-28 | 27 | 198 | 11 | 71 | 6 | 1135 |
+| last720d | 2024-10-03 | 51 | 314 | 11 | 203 | 8 | 1907 |
 
 ## Release 资产
 
@@ -96,4 +96,4 @@ telepresence 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:46:40Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:53:33Z._
