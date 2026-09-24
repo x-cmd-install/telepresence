@@ -26,13 +26,13 @@ Total: **158,138** lines of code across **1072** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.5 / 10**
+Overall score: **6.1 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/3 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Fuzzing** (0/10) — project is not fuzzed
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## Source
 
@@ -42,28 +42,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2.32.0-rc.2` (2026-08-02)
-- **Last commit**: 2026-09-22
+- **Latest**: `v2.32.0-rc.10` (2026-08-02)
+- **Last commit**: 2026-09-23
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 7,306 · **Forks**: 579 · **Open issues**: 2,057 · **Contributors**: 116
+- **Stars**: 7,307 · **Forks**: 579 · **Open issues**: 2,057 · **Contributors**: 116
 
 ## Totals (cumulative)
 
-- **Releases**: 83 · **Merged PRs**: 1854 · **Open PRs**: 11 · **Closed issues**: 2044 · **Open issues**: 13 · **Commits**: 10830
+- **Releases**: 81 · **Merged PRs**: 1870 · **Open PRs**: 11 · **Closed issues**: 2044 · **Open issues**: 13 · **Commits**: 10832
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 3 | 16 | 3 | 0 | 2 | 46 |
-| last60d | 2026-07-25 | 5 | 56 | 11 | 5 | 5 | 256 |
-| 90d | 2026-06-25 | 10 | 86 | 11 | 9 | 6 | 554 |
-| last180d | 2026-03-27 | 15 | 140 | 11 | 29 | 6 | 760 |
-| 360d | 2025-09-28 | 27 | 198 | 11 | 71 | 6 | 1135 |
-| last720d | 2024-10-03 | 51 | 314 | 11 | 203 | 8 | 1907 |
+| 30d | 2026-08-25 | 1 | 31 | 3 | 0 | 2 | 48 |
+| last60d | 2026-07-26 | 3 | 71 | 11 | 4 | 5 | 258 |
+| 90d | 2026-06-26 | 8 | 102 | 11 | 9 | 6 | 556 |
+| last180d | 2026-03-28 | 13 | 156 | 11 | 29 | 6 | 762 |
+| 360d | 2025-09-29 | 25 | 213 | 11 | 71 | 6 | 1137 |
+| last720d | 2024-10-04 | 48 | 330 | 11 | 203 | 8 | 1907 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for telepresence lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T06:53:32Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T06:07:19Z._

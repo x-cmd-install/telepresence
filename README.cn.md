@@ -26,13 +26,13 @@ x install telepresence
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.5 / 10**
+总评分: **6.1 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/3 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Fuzzing** (0/10) — project is not fuzzed
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## 源代码
 
@@ -42,28 +42,28 @@ x install telepresence
 
 ## 发布
 
-- **最新版本**: `v2.32.0-rc.2` (2026-08-02)
-- **最近提交**: 2026-09-22
+- **最新版本**: `v2.32.0-rc.10` (2026-08-02)
+- **最近提交**: 2026-09-23
 - **Release 含资产**: 17 个
 
 ## 流行度
 
-- **Star**: 7,306 · **Fork**: 579 · **开放 issue**: 2,057 · **贡献者**: 116
+- **Star**: 7,307 · **Fork**: 579 · **开放 issue**: 2,057 · **贡献者**: 116
 
 ## 累计统计
 
-- **发布数**: 83 · **已合并 PR**: 1854 · **开放 PR**: 11 · **已关闭 issue**: 2044 · **开放 issue**: 13 · **提交数**: 10830
+- **发布数**: 81 · **已合并 PR**: 1870 · **开放 PR**: 11 · **已关闭 issue**: 2044 · **开放 issue**: 13 · **提交数**: 10832
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 3 | 16 | 3 | 0 | 2 | 46 |
-| last60d | 2026-07-25 | 5 | 56 | 11 | 5 | 5 | 256 |
-| 90d | 2026-06-25 | 10 | 86 | 11 | 9 | 6 | 554 |
-| last180d | 2026-03-27 | 15 | 140 | 11 | 29 | 6 | 760 |
-| 360d | 2025-09-28 | 27 | 198 | 11 | 71 | 6 | 1135 |
-| last720d | 2024-10-03 | 51 | 314 | 11 | 203 | 8 | 1907 |
+| 30d | 2026-08-25 | 1 | 31 | 3 | 0 | 2 | 48 |
+| last60d | 2026-07-26 | 3 | 71 | 11 | 4 | 5 | 258 |
+| 90d | 2026-06-26 | 8 | 102 | 11 | 9 | 6 | 556 |
+| last180d | 2026-03-28 | 13 | 156 | 11 | 29 | 6 | 762 |
+| 360d | 2025-09-29 | 25 | 213 | 11 | 71 | 6 | 1137 |
+| last720d | 2024-10-04 | 48 | 330 | 11 | 203 | 8 | 1907 |
 
 ## Release 资产
 
@@ -96,4 +96,4 @@ telepresence 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260923.yml` · 2026-09-23T06:53:33Z._
+_数据快照: `data/card/260924.yml` · 2026-09-24T06:07:20Z._
