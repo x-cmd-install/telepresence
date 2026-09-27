@@ -14,12 +14,12 @@ x install telepresence
 
 ## Code insight
 
-Total: **160,945** lines of code across **1094** files in the top 5 languages.
+Total: **161,332** lines of code across **1094** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 145,009 | 21,052 | 18,880 | 1001 |
-| Yaml | 8,783 | 402 | 144 | 77 |
+| Go | 145,386 | 21,065 | 18,909 | 1001 |
+| Yaml | 8,793 | 402 | 157 | 77 |
 | Svg | 1,764 | 0 | 0 | 2 |
 | Json | 1,621 | 0 | 0 | 6 |
 | Protobuf | 967 | 752 | 512 | 8 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.32.1` (2026-09-25)
-- **Last commit**: 2026-09-25
+- **Last commit**: 2026-09-26
 - **Assets in release**: 18
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 83 · **Merged PRs**: 1879 · **Open PRs**: 9 · **Closed issues**: 2045 · **Open issues**: 14 · **Commits**: 10973
+- **Releases**: 83 · **Merged PRs**: 1881 · **Open PRs**: 8 · **Closed issues**: 2045 · **Open issues**: 14 · **Commits**: 10982
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 3 | 40 | 1 | 1 | 3 | 189 |
-| last60d | 2026-07-28 | 5 | 78 | 9 | 5 | 6 | 399 |
-| 90d | 2026-06-28 | 10 | 111 | 9 | 10 | 7 | 697 |
-| last180d | 2026-03-30 | 14 | 164 | 9 | 30 | 7 | 903 |
-| 360d | 2025-10-01 | 27 | 221 | 9 | 71 | 7 | 1278 |
-| last720d | 2024-10-06 | 50 | 337 | 9 | 204 | 9 | 2044 |
+| 30d | 2026-08-28 | 3 | 40 | 2 | 1 | 3 | 196 |
+| last60d | 2026-07-29 | 4 | 79 | 8 | 5 | 6 | 297 |
+| 90d | 2026-06-29 | 10 | 112 | 8 | 10 | 7 | 694 |
+| last180d | 2026-03-31 | 14 | 166 | 8 | 30 | 7 | 908 |
+| 360d | 2025-10-02 | 27 | 223 | 8 | 71 | 7 | 1269 |
+| last720d | 2024-10-07 | 50 | 339 | 8 | 201 | 9 | 2052 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for telepresence lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T06:14:46Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T06:36:42Z._
