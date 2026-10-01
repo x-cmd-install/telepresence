@@ -26,13 +26,13 @@ Total: **161,332** lines of code across **1094** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.1 / 10**
+Overall score: **5.8 / 10**
 
 Lowest-scoring checks:
 
+- **Code-Review** (3/10) — Found 3/8 approved changesets -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Fuzzing** (0/10) — project is not fuzzed
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## Source
 
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 83 · **Merged PRs**: 1881 · **Open PRs**: 9 · **Closed issues**: 2046 · **Open issues**: 15 · **Commits**: 10982
+- **Releases**: 83 · **Merged PRs**: 1882 · **Open PRs**: 8 · **Closed issues**: 2046 · **Open issues**: 15 · **Commits**: 10982
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 3 | 40 | 3 | 2 | 4 | 196 |
-| last60d | 2026-08-01 | 4 | 79 | 9 | 5 | 7 | 297 |
-| 90d | 2026-07-02 | 10 | 111 | 9 | 11 | 8 | 694 |
-| last180d | 2026-04-03 | 14 | 166 | 9 | 31 | 8 | 908 |
-| 360d | 2025-10-05 | 27 | 220 | 9 | 72 | 8 | 1269 |
-| last720d | 2024-10-10 | 50 | 335 | 9 | 200 | 10 | 2028 |
+| 30d | 2026-09-01 | 3 | 41 | 2 | 2 | 4 | 196 |
+| last60d | 2026-08-02 | 4 | 76 | 8 | 5 | 7 | 297 |
+| 90d | 2026-07-03 | 10 | 110 | 8 | 10 | 8 | 694 |
+| last180d | 2026-04-04 | 14 | 167 | 8 | 31 | 8 | 908 |
+| 360d | 2025-10-06 | 27 | 220 | 8 | 72 | 8 | 1269 |
+| last720d | 2024-10-11 | 49 | 335 | 8 | 199 | 10 | 2024 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for telepresence lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T07:00:46Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T07:17:40Z._
