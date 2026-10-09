@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 3 | 43 | 3 | 4 | 3 | 203 |
-| last60d | 2026-08-09 | 3 | 51 | 3 | 6 | 6 | 232 |
-| 90d | 2026-07-10 | 8 | 106 | 9 | 10 | 7 | 580 |
-| last180d | 2026-04-11 | 13 | 164 | 9 | 29 | 7 | 905 |
-| 360d | 2025-10-13 | 24 | 219 | 9 | 73 | 7 | 1256 |
-| last720d | 2024-10-18 | 46 | 336 | 9 | 200 | 9 | 2029 |
+| 30d | 2026-09-09 | 3 | 43 | 3 | 4 | 3 | 203 |
+| last60d | 2026-08-10 | 3 | 50 | 3 | 6 | 5 | 232 |
+| 90d | 2026-07-11 | 8 | 101 | 9 | 10 | 7 | 580 |
+| last180d | 2026-04-12 | 13 | 164 | 9 | 29 | 7 | 905 |
+| 360d | 2025-10-14 | 24 | 219 | 9 | 72 | 7 | 1256 |
+| last720d | 2024-10-19 | 46 | 336 | 9 | 200 | 9 | 2029 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for telepresence lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T07:32:50Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T07:28:57Z._
