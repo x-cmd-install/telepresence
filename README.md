@@ -26,11 +26,11 @@ Total: **161,591** lines of code across **1096** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.8 / 10**
+Overall score: **5.7 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (3/10) — Found 3/8 approved changesets -- score normalized to 3
+- **Code-Review** (2/10) — Found 2/8 approved changesets -- score normalized to 2
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Fuzzing** (0/10) — project is not fuzzed
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,314 · **Forks**: 581 · **Open issues**: 2,062 · **Contributors**: 117
+- **Stars**: 7,315 · **Forks**: 581 · **Open issues**: 2,062 · **Contributors**: 117
 
 ## Totals (cumulative)
 
-- **Releases**: 80 · **Merged PRs**: 1887 · **Open PRs**: 8 · **Closed issues**: 2048 · **Open issues**: 14 · **Commits**: 11002
+- **Releases**: 80 · **Merged PRs**: 1887 · **Open PRs**: 9 · **Closed issues**: 2048 · **Open issues**: 14 · **Commits**: 11002
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 3 | 46 | 2 | 4 | 3 | 206 |
-| last60d | 2026-08-14 | 3 | 48 | 2 | 6 | 4 | 225 |
-| 90d | 2026-07-15 | 7 | 98 | 8 | 9 | 7 | 466 |
-| last180d | 2026-04-16 | 13 | 164 | 8 | 28 | 7 | 899 |
-| 360d | 2025-10-18 | 23 | 221 | 8 | 70 | 7 | 1255 |
-| last720d | 2024-10-23 | 45 | 338 | 8 | 199 | 9 | 2034 |
+| 30d | 2026-09-14 | 3 | 46 | 3 | 4 | 3 | 206 |
+| last60d | 2026-08-15 | 3 | 48 | 3 | 6 | 4 | 225 |
+| 90d | 2026-07-16 | 7 | 98 | 9 | 9 | 7 | 466 |
+| last180d | 2026-04-17 | 13 | 163 | 9 | 27 | 7 | 899 |
+| 360d | 2025-10-19 | 23 | 221 | 9 | 69 | 7 | 1255 |
+| last720d | 2024-10-24 | 45 | 338 | 9 | 199 | 9 | 2032 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for telepresence lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T08:21:43Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T06:17:46Z._

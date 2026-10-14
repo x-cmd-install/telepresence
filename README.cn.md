@@ -26,11 +26,11 @@ x install telepresence
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.8 / 10**
+总评分: **5.7 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (3/10) — Found 3/8 approved changesets -- score normalized to 3
+- **Code-Review** (2/10) — Found 2/8 approved changesets -- score normalized to 2
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Fuzzing** (0/10) — project is not fuzzed
 
@@ -48,22 +48,22 @@ x install telepresence
 
 ## 流行度
 
-- **Star**: 7,314 · **Fork**: 581 · **开放 issue**: 2,062 · **贡献者**: 117
+- **Star**: 7,315 · **Fork**: 581 · **开放 issue**: 2,062 · **贡献者**: 117
 
 ## 累计统计
 
-- **发布数**: 80 · **已合并 PR**: 1887 · **开放 PR**: 8 · **已关闭 issue**: 2048 · **开放 issue**: 14 · **提交数**: 11002
+- **发布数**: 80 · **已合并 PR**: 1887 · **开放 PR**: 9 · **已关闭 issue**: 2048 · **开放 issue**: 14 · **提交数**: 11002
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 3 | 46 | 2 | 4 | 3 | 206 |
-| last60d | 2026-08-14 | 3 | 48 | 2 | 6 | 4 | 225 |
-| 90d | 2026-07-15 | 7 | 98 | 8 | 9 | 7 | 466 |
-| last180d | 2026-04-16 | 13 | 164 | 8 | 28 | 7 | 899 |
-| 360d | 2025-10-18 | 23 | 221 | 8 | 70 | 7 | 1255 |
-| last720d | 2024-10-23 | 45 | 338 | 8 | 199 | 9 | 2034 |
+| 30d | 2026-09-14 | 3 | 46 | 3 | 4 | 3 | 206 |
+| last60d | 2026-08-15 | 3 | 48 | 3 | 6 | 4 | 225 |
+| 90d | 2026-07-16 | 7 | 98 | 9 | 9 | 7 | 466 |
+| last180d | 2026-04-17 | 13 | 163 | 9 | 27 | 7 | 899 |
+| 360d | 2025-10-19 | 23 | 221 | 9 | 69 | 7 | 1255 |
+| last720d | 2024-10-24 | 45 | 338 | 9 | 199 | 9 | 2032 |
 
 ## Release 资产
 
@@ -97,4 +97,4 @@ telepresence 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261013.yml` · 2026-10-13T08:21:44Z._
+_数据快照: `data/card/261014.yml` · 2026-10-14T06:17:46Z._
