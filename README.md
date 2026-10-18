@@ -14,11 +14,11 @@ x install telepresence
 
 ## Code insight
 
-Total: **161,945** lines of code across **1098** files in the top 5 languages.
+Total: **161,958** lines of code across **1098** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 145,948 | 21,073 | 18,969 | 1005 |
+| Go | 145,961 | 21,074 | 18,972 | 1005 |
 | Yaml | 8,848 | 402 | 157 | 77 |
 | Svg | 1,764 | 0 | 0 | 2 |
 | Json | 1,621 | 0 | 0 | 6 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,317 · **Forks**: 580 · **Open issues**: 2,062 · **Contributors**: 117
+- **Stars**: 7,318 · **Forks**: 581 · **Open issues**: 2,062 · **Contributors**: 117
 
 ## Totals (cumulative)
 
-- **Releases**: 80 · **Merged PRs**: 1893 · **Open PRs**: 6 · **Closed issues**: 2048 · **Open issues**: 14 · **Commits**: 11018
+- **Releases**: 80 · **Merged PRs**: 1894 · **Open PRs**: 4 · **Closed issues**: 2048 · **Open issues**: 14 · **Commits**: 11020
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 3 | 52 | 2 | 3 | 3 | 220 |
-| last60d | 2026-08-18 | 3 | 54 | 2 | 6 | 3 | 239 |
-| 90d | 2026-07-19 | 6 | 97 | 6 | 9 | 7 | 482 |
-| last180d | 2026-04-20 | 13 | 168 | 6 | 25 | 7 | 915 |
-| 360d | 2025-10-22 | 23 | 227 | 6 | 66 | 7 | 1271 |
-| last720d | 2024-10-27 | 45 | 344 | 6 | 198 | 9 | 2048 |
+| 30d | 2026-09-18 | 3 | 53 | 1 | 3 | 1 | 47 |
+| last60d | 2026-08-19 | 3 | 55 | 1 | 6 | 3 | 231 |
+| 90d | 2026-07-20 | 6 | 98 | 4 | 9 | 6 | 454 |
+| last180d | 2026-04-21 | 13 | 167 | 4 | 25 | 7 | 912 |
+| 360d | 2025-10-23 | 23 | 228 | 4 | 66 | 7 | 1270 |
+| last720d | 2024-10-28 | 45 | 344 | 4 | 197 | 9 | 2039 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for telepresence lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T05:39:57Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T05:47:05Z._
