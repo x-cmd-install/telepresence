@@ -14,12 +14,12 @@ x install telepresence
 
 ## 代码洞察
 
-合计: **167,844** 行代码（覆盖前 5 种语言、共 **1111** 个文件）。
+合计: **168,923** 行代码（覆盖前 5 种语言、共 **1113** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 151,736 | 21,380 | 19,490 | 1018 |
-| Yaml | 8,942 | 402 | 157 | 77 |
+| Go | 152,776 | 21,428 | 19,583 | 1020 |
+| Yaml | 8,981 | 402 | 144 | 77 |
 | Svg | 1,764 | 0 | 0 | 2 |
 | Json | 1,621 | 0 | 0 | 6 |
 | Protobuf | 984 | 768 | 520 | 8 |
@@ -43,27 +43,27 @@ x install telepresence
 ## 发布
 
 - **最新版本**: `v2.32.3` (2026-10-21)
-- **最近提交**: 2026-10-21
+- **最近提交**: 2026-10-23
 - **Release 含资产**: 18 个
 
 ## 流行度
 
-- **Star**: 7,319 · **Fork**: 581 · **开放 issue**: 2,064 · **贡献者**: 117
+- **Star**: 7,320 · **Fork**: 582 · **开放 issue**: 2,065 · **贡献者**: 118
 
 ## 累计统计
 
-- **发布数**: 81 · **已合并 PR**: 1900 · **开放 PR**: 3 · **已关闭 issue**: 2051 · **开放 issue**: 13 · **提交数**: 11043
+- **发布数**: 81 · **已合并 PR**: 1902 · **开放 PR**: 2 · **已关闭 issue**: 2052 · **开放 issue**: 13 · **提交数**: 11052
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 4 | 41 | 2 | 4 | 2 | 66 |
-| last60d | 2026-08-23 | 4 | 59 | 2 | 6 | 4 | 250 |
-| 90d | 2026-07-24 | 6 | 102 | 3 | 12 | 5 | 477 |
-| last180d | 2026-04-25 | 14 | 172 | 3 | 27 | 6 | 935 |
-| 360d | 2025-10-27 | 24 | 233 | 3 | 69 | 6 | 1293 |
-| last720d | 2024-11-01 | 46 | 349 | 3 | 198 | 8 | 2052 |
+| 30d | 2026-09-23 | 4 | 27 | 1 | 5 | 2 | 75 |
+| last60d | 2026-08-24 | 4 | 60 | 1 | 6 | 4 | 259 |
+| 90d | 2026-07-25 | 6 | 104 | 2 | 13 | 5 | 486 |
+| last180d | 2026-04-26 | 14 | 174 | 2 | 28 | 6 | 944 |
+| 360d | 2025-10-28 | 24 | 235 | 2 | 70 | 6 | 1302 |
+| last720d | 2024-11-02 | 46 | 351 | 2 | 199 | 8 | 2061 |
 
 ## Release 资产
 
@@ -88,6 +88,15 @@ x install telepresence
 | [telepresence-windows-arm64.msi](https://github.com/telepresenceio/telepresence/releases/download/v2.32.3/telepresence-windows-arm64.msi) | 19.8 MiB | `native/win/arm64` |
 | [telepresence-windows-arm64.zip](https://github.com/telepresenceio/telepresence/releases/download/v2.32.3/telepresence-windows-arm64.zip) | 30.0 MiB | `native/win/arm64` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/telepresence) 上共有 **66** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**7** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Nix unstable | `0.109` | 🪦 legacy |
+| Void | `2.20.3` | ⚠️ outdated |
+
 ## 改进这些数据
 
 telepresence 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `telepresence` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -97,4 +106,4 @@ telepresence 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T06:02:02Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T06:13:05Z._
