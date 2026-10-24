@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 81 · **Merged PRs**: 1902 · **Open PRs**: 2 · **Closed issues**: 2052 · **Open issues**: 13 · **Commits**: 11052
+- **Releases**: 81 · **Merged PRs**: 1902 · **Open PRs**: 3 · **Closed issues**: 2052 · **Open issues**: 13 · **Commits**: 11052
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 4 | 27 | 1 | 5 | 2 | 75 |
-| last60d | 2026-08-24 | 4 | 60 | 1 | 6 | 4 | 259 |
-| 90d | 2026-07-25 | 6 | 104 | 2 | 13 | 5 | 486 |
-| last180d | 2026-04-26 | 14 | 174 | 2 | 28 | 6 | 944 |
-| 360d | 2025-10-28 | 24 | 235 | 2 | 70 | 6 | 1302 |
-| last720d | 2024-11-02 | 46 | 351 | 2 | 199 | 8 | 2061 |
+| 30d | 2026-09-24 | 4 | 21 | 2 | 5 | 2 | 75 |
+| last60d | 2026-08-25 | 4 | 59 | 2 | 6 | 4 | 259 |
+| 90d | 2026-07-26 | 6 | 103 | 3 | 12 | 5 | 486 |
+| last180d | 2026-04-27 | 14 | 174 | 3 | 28 | 6 | 944 |
+| 360d | 2025-10-29 | 24 | 235 | 3 | 70 | 6 | 1302 |
+| last720d | 2024-11-03 | 46 | 351 | 3 | 199 | 8 | 2061 |
 
 ## Release assets
 
@@ -106,4 +106,4 @@ Install metadata for telepresence lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T06:13:04Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:54:40Z._
