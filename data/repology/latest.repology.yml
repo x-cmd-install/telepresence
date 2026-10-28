@@ -2,8 +2,80 @@
   subrepo: devops
   binname: telepresence
   visiblename: telepresence
-  version: 2.18.0
-  origversion: 2.18.0-1~ops2deb
+  version: 2.11.1
+  origversion: 2.11.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: telepresence
+  visiblename: telepresence
+  version: 2.11.0
+  origversion: 2.11.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: telepresence
+  visiblename: telepresence
+  version: 2.10.6
+  origversion: 2.10.6-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: telepresence
+  visiblename: telepresence
+  version: 2.10.5
+  origversion: 2.10.5-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: telepresence
+  visiblename: telepresence
+  version: 2.10.4
+  origversion: 2.10.4-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: telepresence
+  visiblename: telepresence
+  version: 2.10.3
+  origversion: 2.10.3-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: telepresence
+  visiblename: telepresence
+  version: 2.10.2
+  origversion: 2.10.2-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: telepresence
+  visiblename: telepresence
+  version: 2.10.1
+  origversion: 2.10.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: telepresence
+  visiblename: telepresence
+  version: 2.10.0
+  origversion: 2.10.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -37,7 +109,7 @@
   visiblename: telepresence2
   version: 2.31.2
   origversion: 2.31.2-1
-  status: newest
+  status: outdated
   summary: Local development against a remote Kubernetes or OpenShift cluster
   maintainers:
     - xiayesuifeng@aur
@@ -48,8 +120,8 @@
   srcname: telepresence2-bin
   binname: telepresence2-bin
   visiblename: telepresence2-bin
-  version: 2.31.2
-  origversion: 2.31.2-1
+  version: 2.32.3
+  origversion: 2.32.3-1
   status: newest
   summary: Local development against a remote Kubernetes or OpenShift cluster
   maintainers:
@@ -160,7 +232,7 @@
   visiblename: telepresence2
   version: 2.31.2
   origversion: null
-  status: newest
+  status: outdated
   summary: Local development against a remote Kubernetes or OpenShift cluster
   maintainers:
     - mauricioscheffer@gmail.com
@@ -285,6 +357,15 @@
   subrepo: devops
   binname: telepresence
   visiblename: telepresence
+  version: 2.18.0
+  origversion: 2.18.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: telepresence
+  visiblename: telepresence
   version: 2.17.1
   origversion: 2.17.1-1~ops2deb
   status: legacy
@@ -368,141 +449,6 @@
   visiblename: telepresence
   version: 2.13.3
   origversion: 2.13.3-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: telepresence
-  visiblename: telepresence
-  version: 2.13.2
-  origversion: 2.13.2-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: telepresence
-  visiblename: telepresence
-  version: 2.13.1
-  origversion: 2.13.1-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: telepresence
-  visiblename: telepresence
-  version: 2.13.0
-  origversion: 2.13.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: telepresence
-  visiblename: telepresence
-  version: 2.12.2
-  origversion: 2.12.2-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: telepresence
-  visiblename: telepresence
-  version: 2.12.1
-  origversion: 2.12.1-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: telepresence
-  visiblename: telepresence
-  version: 2.12.0
-  origversion: 2.12.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: telepresence
-  visiblename: telepresence
-  version: 2.11.1
-  origversion: 2.11.1-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: telepresence
-  visiblename: telepresence
-  version: 2.11.0
-  origversion: 2.11.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: telepresence
-  visiblename: telepresence
-  version: 2.10.6
-  origversion: 2.10.6-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: telepresence
-  visiblename: telepresence
-  version: 2.10.5
-  origversion: 2.10.5-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: telepresence
-  visiblename: telepresence
-  version: 2.10.4
-  origversion: 2.10.4-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: telepresence
-  visiblename: telepresence
-  version: 2.10.3
-  origversion: 2.10.3-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: telepresence
-  visiblename: telepresence
-  version: 2.10.2
-  origversion: 2.10.2-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: telepresence
-  visiblename: telepresence
-  version: 2.10.1
-  origversion: 2.10.1-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: telepresence
-  visiblename: telepresence
-  version: 2.10.0
-  origversion: 2.10.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -638,6 +584,60 @@
   visiblename: telepresence
   version: 2.5.3
   origversion: 2.5.3-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: telepresence
+  visiblename: telepresence
+  version: 2.13.2
+  origversion: 2.13.2-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: telepresence
+  visiblename: telepresence
+  version: 2.13.1
+  origversion: 2.13.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: telepresence
+  visiblename: telepresence
+  version: 2.13.0
+  origversion: 2.13.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: telepresence
+  visiblename: telepresence
+  version: 2.12.2
+  origversion: 2.12.2-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: telepresence
+  visiblename: telepresence
+  version: 2.12.1
+  origversion: 2.12.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: telepresence
+  visiblename: telepresence
+  version: 2.12.0
+  origversion: 2.12.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
