@@ -26,13 +26,13 @@ x install telepresence
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.7 / 10**
+总评分: **6 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (2/10) — Found 2/9 approved changesets -- score normalized to 2
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Fuzzing** (0/10) — project is not fuzzed
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install telepresence
 
 ## 流行度
 
-- **Star**: 7,322 · **Fork**: 583 · **开放 issue**: 2,065 · **贡献者**: 119
+- **Star**: 7,323 · **Fork**: 583 · **开放 issue**: 2,065 · **贡献者**: 119
 
 ## 累计统计
 
-- **发布数**: 81 · **已合并 PR**: 1903 · **开放 PR**: 3 · **已关闭 issue**: 2054 · **开放 issue**: 11 · **提交数**: 11055
+- **发布数**: 81 · **已合并 PR**: 1903 · **开放 PR**: 3 · **已关闭 issue**: 2055 · **开放 issue**: 10 · **提交数**: 11055
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 2 | 19 | 1 | 3 | 1 | 57 |
-| last60d | 2026-08-28 | 4 | 60 | 2 | 7 | 3 | 262 |
-| 90d | 2026-07-29 | 5 | 101 | 3 | 14 | 3 | 417 |
-| last180d | 2026-04-30 | 14 | 174 | 3 | 28 | 4 | 944 |
-| 360d | 2025-11-01 | 24 | 235 | 3 | 70 | 4 | 1278 |
-| last720d | 2024-11-06 | 46 | 350 | 3 | 199 | 6 | 2062 |
+| 30d | 2026-09-28 | 2 | 19 | 1 | 4 | 0 | 57 |
+| last60d | 2026-08-29 | 4 | 60 | 2 | 8 | 2 | 262 |
+| 90d | 2026-07-30 | 5 | 101 | 3 | 15 | 2 | 417 |
+| last180d | 2026-05-01 | 14 | 174 | 3 | 29 | 3 | 944 |
+| 360d | 2025-11-02 | 24 | 235 | 3 | 71 | 3 | 1278 |
+| last720d | 2024-11-07 | 46 | 350 | 3 | 200 | 5 | 2062 |
 
 ## Release 资产
 
@@ -90,7 +90,7 @@ x install telepresence
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/telepresence) 上共有 **66** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**7** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/telepresence) 上共有 **66** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**9** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -106,4 +106,4 @@ telepresence 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261027.yml` · 2026-10-27T06:28:56Z._
+_数据快照: `data/card/261028.yml` · 2026-10-28T07:09:52Z._
