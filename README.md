@@ -14,12 +14,12 @@ x install telepresence
 
 ## Code insight
 
-Total: **169,328** lines of code across **1118** files in the top 5 languages.
+Total: **169,463** lines of code across **1119** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 153,124 | 21,453 | 19,629 | 1025 |
-| Yaml | 9,046 | 402 | 144 | 77 |
+| Go | 153,235 | 21,454 | 19,642 | 1026 |
+| Yaml | 9,070 | 402 | 144 | 77 |
 | Svg | 1,764 | 0 | 0 | 2 |
 | Json | 1,621 | 0 | 0 | 6 |
 | Protobuf | 984 | 768 | 520 | 8 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.32.3` (2026-10-21)
-- **Last commit**: 2026-11-01
+- **Last commit**: 2026-11-02
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 7,326 · **Forks**: 585 · **Open issues**: 2,069 · **Contributors**: 120
+- **Stars**: 7,327 · **Forks**: 585 · **Open issues**: 2,074 · **Contributors**: 120
 
 ## Totals (cumulative)
 
-- **Releases**: 81 · **Merged PRs**: 1908 · **Open PRs**: 3 · **Closed issues**: 2060 · **Open issues**: 9 · **Commits**: 11066
+- **Releases**: 81 · **Merged PRs**: 1910 · **Open PRs**: 7 · **Closed issues**: 2062 · **Open issues**: 12 · **Commits**: 11070
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 2 | 23 | 1 | 7 | 0 | 61 |
-| last60d | 2026-09-03 | 4 | 65 | 2 | 12 | 2 | 269 |
-| 90d | 2026-08-04 | 4 | 99 | 3 | 18 | 2 | 329 |
-| last180d | 2026-05-06 | 14 | 178 | 3 | 31 | 3 | 947 |
-| 360d | 2025-11-07 | 24 | 238 | 3 | 75 | 3 | 1266 |
-| last720d | 2024-11-12 | 46 | 355 | 3 | 203 | 5 | 2073 |
+| 30d | 2026-10-04 | 2 | 25 | 5 | 9 | 3 | 67 |
+| last60d | 2026-09-04 | 4 | 67 | 6 | 14 | 5 | 275 |
+| 90d | 2026-08-05 | 4 | 77 | 6 | 20 | 5 | 335 |
+| last180d | 2026-05-07 | 14 | 180 | 7 | 33 | 6 | 953 |
+| 360d | 2025-11-08 | 24 | 239 | 7 | 76 | 6 | 1272 |
+| last720d | 2024-11-13 | 46 | 357 | 7 | 205 | 8 | 2076 |
 
 ## Release assets
 
@@ -106,4 +106,4 @@ Install metadata for telepresence lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T07:46:15Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T08:31:02Z._
