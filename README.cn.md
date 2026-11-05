@@ -26,13 +26,13 @@ x install telepresence
 
 ## OpenSSF Scorecard 评分
 
-总评分: **6 / 10**
+总评分: **6.2 / 10**
 
 评分最低的几项:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Fuzzing** (0/10) — project is not fuzzed
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Branch-Protection** (4/10) — branch protection is not maximal on development and all release branches
 
 ## 源代码
 
@@ -52,18 +52,18 @@ x install telepresence
 
 ## 累计统计
 
-- **发布数**: 81 · **已合并 PR**: 1910 · **开放 PR**: 7 · **已关闭 issue**: 2062 · **开放 issue**: 12 · **提交数**: 11070
+- **发布数**: 81 · **已合并 PR**: 1910 · **开放 PR**: 8 · **已关闭 issue**: 2062 · **开放 issue**: 12 · **提交数**: 11070
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 2 | 25 | 5 | 9 | 3 | 67 |
-| last60d | 2026-09-05 | 4 | 67 | 6 | 14 | 5 | 275 |
-| 90d | 2026-08-06 | 4 | 76 | 6 | 20 | 5 | 335 |
-| last180d | 2026-05-08 | 14 | 180 | 7 | 33 | 6 | 953 |
-| 360d | 2025-11-09 | 24 | 239 | 7 | 76 | 6 | 1272 |
-| last720d | 2024-11-14 | 46 | 357 | 7 | 205 | 8 | 2075 |
+| 30d | 2026-10-06 | 2 | 25 | 6 | 9 | 3 | 67 |
+| last60d | 2026-09-06 | 4 | 67 | 7 | 14 | 5 | 275 |
+| 90d | 2026-08-07 | 4 | 75 | 7 | 19 | 5 | 335 |
+| last180d | 2026-05-09 | 14 | 180 | 8 | 33 | 6 | 953 |
+| 360d | 2025-11-10 | 24 | 238 | 8 | 76 | 6 | 1272 |
+| last720d | 2024-11-15 | 46 | 356 | 8 | 205 | 8 | 2075 |
 
 ## Release 资产
 
@@ -106,4 +106,4 @@ telepresence 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261104.yml` · 2026-11-04T07:55:26Z._
+_数据快照: `data/card/261105.yml` · 2026-11-05T08:14:43Z._
