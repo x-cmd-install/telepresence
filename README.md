@@ -14,12 +14,12 @@ x install telepresence
 
 ## Code insight
 
-Total: **170,781** lines of code across **1123** files in the top 5 languages.
+Total: **171,946** lines of code across **1127** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 154,467 | 21,521 | 19,752 | 1030 |
-| Yaml | 9,194 | 408 | 151 | 77 |
+| Go | 155,592 | 21,612 | 19,861 | 1034 |
+| Yaml | 9,234 | 408 | 151 | 77 |
 | Svg | 1,764 | 0 | 0 | 2 |
 | Json | 1,621 | 0 | 0 | 6 |
 | Protobuf | 984 | 768 | 520 | 8 |
@@ -42,47 +42,47 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2.33.0` (2026-11-09)
-- **Last commit**: 2026-11-14
+- **Latest**: `v2.33.1` (2026-11-15)
+- **Last commit**: 2026-11-15
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 7,333 · **Forks**: 585 · **Open issues**: 2,077 · **Contributors**: 122
+- **Stars**: 7,333 · **Forks**: 586 · **Open issues**: 2,077 · **Contributors**: 122
 
 ## Totals (cumulative)
 
-- **Releases**: 82 · **Merged PRs**: 1925 · **Open PRs**: 4 · **Closed issues**: 2067 · **Open issues**: 10 · **Commits**: 11115
+- **Releases**: 83 · **Merged PRs**: 1929 · **Open PRs**: 4 · **Closed issues**: 2068 · **Open issues**: 9 · **Commits**: 11130
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 2 | 32 | 2 | 13 | 2 | 74 |
-| last60d | 2026-09-16 | 5 | 82 | 3 | 18 | 3 | 215 |
-| 90d | 2026-08-17 | 5 | 84 | 3 | 21 | 3 | 337 |
-| last180d | 2026-05-19 | 14 | 194 | 4 | 37 | 4 | 978 |
-| 360d | 2025-11-20 | 24 | 253 | 4 | 76 | 4 | 1316 |
-| last720d | 2024-11-25 | 46 | 369 | 4 | 204 | 6 | 2107 |
+| 30d | 2026-10-17 | 3 | 33 | 2 | 14 | 1 | 89 |
+| last60d | 2026-09-17 | 6 | 86 | 3 | 19 | 2 | 230 |
+| 90d | 2026-08-18 | 6 | 88 | 3 | 22 | 2 | 352 |
+| last180d | 2026-05-20 | 15 | 196 | 4 | 38 | 3 | 993 |
+| 360d | 2025-11-21 | 25 | 257 | 4 | 76 | 3 | 1331 |
+| last720d | 2024-11-26 | 47 | 373 | 4 | 205 | 5 | 2122 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [telepresence-darwin-amd64](https://github.com/telepresenceio/telepresence/releases/download/v2.33.0/telepresence-darwin-amd64) | 98.9 MiB | `native/darwin/x64` |
-| [telepresence-darwin-amd64.pkg](https://github.com/telepresenceio/telepresence/releases/download/v2.33.0/telepresence-darwin-amd64.pkg) | 30.5 MiB | `native/darwin/x64` |
-| [telepresence-darwin-arm64](https://github.com/telepresenceio/telepresence/releases/download/v2.33.0/telepresence-darwin-arm64) | 93.0 MiB | `native/darwin/arm64` |
-| [telepresence-darwin-arm64.pkg](https://github.com/telepresenceio/telepresence/releases/download/v2.33.0/telepresence-darwin-arm64.pkg) | 26.8 MiB | `native/darwin/arm64` |
-| [telepresence-linux-amd64](https://github.com/telepresenceio/telepresence/releases/download/v2.33.0/telepresence-linux-amd64) | 126.7 MiB | `native/linux/x64` |
-| [telepresence-linux-amd64.deb](https://github.com/telepresenceio/telepresence/releases/download/v2.33.0/telepresence-linux-amd64.deb) | 38.0 MiB | `native/linux/x64` |
-| [telepresence-linux-amd64.rpm](https://github.com/telepresenceio/telepresence/releases/download/v2.33.0/telepresence-linux-amd64.rpm) | 39.8 MiB | `native/linux/x64` |
-| [telepresence-linux-arm64](https://github.com/telepresenceio/telepresence/releases/download/v2.33.0/telepresence-linux-arm64) | 120.0 MiB | `native/linux/arm64` |
-| [telepresence-linux-arm64.deb](https://github.com/telepresenceio/telepresence/releases/download/v2.33.0/telepresence-linux-arm64.deb) | 34.9 MiB | `native/linux/arm64` |
-| [telepresence-linux-arm64.rpm](https://github.com/telepresenceio/telepresence/releases/download/v2.33.0/telepresence-linux-arm64.rpm) | 36.5 MiB | `native/linux/arm64` |
-| [telepresence-windows-amd64.msi](https://github.com/telepresenceio/telepresence/releases/download/v2.33.0/telepresence-windows-amd64.msi) | 21.9 MiB | `native/win/x64` |
-| [telepresence-windows-amd64.zip](https://github.com/telepresenceio/telepresence/releases/download/v2.33.0/telepresence-windows-amd64.zip) | 34.2 MiB | `native/win/x64` |
-| [telepresence-windows-arm64.msi](https://github.com/telepresenceio/telepresence/releases/download/v2.33.0/telepresence-windows-arm64.msi) | 19.8 MiB | `native/win/arm64` |
-| [telepresence-windows-arm64.zip](https://github.com/telepresenceio/telepresence/releases/download/v2.33.0/telepresence-windows-arm64.zip) | 30.8 MiB | `native/win/arm64` |
+| [telepresence-darwin-amd64](https://github.com/telepresenceio/telepresence/releases/download/v2.33.1/telepresence-darwin-amd64) | 98.9 MiB | `native/darwin/x64` |
+| [telepresence-darwin-amd64.pkg](https://github.com/telepresenceio/telepresence/releases/download/v2.33.1/telepresence-darwin-amd64.pkg) | 30.5 MiB | `native/darwin/x64` |
+| [telepresence-darwin-arm64](https://github.com/telepresenceio/telepresence/releases/download/v2.33.1/telepresence-darwin-arm64) | 93.0 MiB | `native/darwin/arm64` |
+| [telepresence-darwin-arm64.pkg](https://github.com/telepresenceio/telepresence/releases/download/v2.33.1/telepresence-darwin-arm64.pkg) | 26.8 MiB | `native/darwin/arm64` |
+| [telepresence-linux-amd64](https://github.com/telepresenceio/telepresence/releases/download/v2.33.1/telepresence-linux-amd64) | 126.7 MiB | `native/linux/x64` |
+| [telepresence-linux-amd64.deb](https://github.com/telepresenceio/telepresence/releases/download/v2.33.1/telepresence-linux-amd64.deb) | 38.0 MiB | `native/linux/x64` |
+| [telepresence-linux-amd64.rpm](https://github.com/telepresenceio/telepresence/releases/download/v2.33.1/telepresence-linux-amd64.rpm) | 39.8 MiB | `native/linux/x64` |
+| [telepresence-linux-arm64](https://github.com/telepresenceio/telepresence/releases/download/v2.33.1/telepresence-linux-arm64) | 120.0 MiB | `native/linux/arm64` |
+| [telepresence-linux-arm64.deb](https://github.com/telepresenceio/telepresence/releases/download/v2.33.1/telepresence-linux-arm64.deb) | 34.9 MiB | `native/linux/arm64` |
+| [telepresence-linux-arm64.rpm](https://github.com/telepresenceio/telepresence/releases/download/v2.33.1/telepresence-linux-arm64.rpm) | 36.4 MiB | `native/linux/arm64` |
+| [telepresence-windows-amd64.msi](https://github.com/telepresenceio/telepresence/releases/download/v2.33.1/telepresence-windows-amd64.msi) | 21.9 MiB | `native/win/x64` |
+| [telepresence-windows-amd64.zip](https://github.com/telepresenceio/telepresence/releases/download/v2.33.1/telepresence-windows-amd64.zip) | 34.2 MiB | `native/win/x64` |
+| [telepresence-windows-arm64.msi](https://github.com/telepresenceio/telepresence/releases/download/v2.33.1/telepresence-windows-arm64.msi) | 19.8 MiB | `native/win/arm64` |
+| [telepresence-windows-arm64.zip](https://github.com/telepresenceio/telepresence/releases/download/v2.33.1/telepresence-windows-arm64.zip) | 30.8 MiB | `native/win/arm64` |
 
 ## Distribution status
 
@@ -102,4 +102,4 @@ Install metadata for telepresence lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T08:22:20Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T08:58:02Z._
