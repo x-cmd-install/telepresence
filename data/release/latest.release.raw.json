@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 103678504,
       "digest": "sha256:948e94a16efc01fe371abca13e23e7d6f724ed9038a31fe49e1c1b59b03ad258",
-      "download_count": 9,
+      "download_count": 16,
       "created_at": "2026-11-15T20:23:19Z",
       "updated_at": "2026-11-15T20:23:23Z",
       "browser_download_url": "https://github.com/telepresenceio/telepresence/releases/download/v2.33.1/telepresence-darwin-amd64"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 31941290,
       "digest": "sha256:49bcb40410c673dc26694fcc3f85ec764f9e14eb26d32553496a53dd41c6816f",
-      "download_count": 53,
+      "download_count": 153,
       "created_at": "2026-11-15T20:35:02Z",
       "updated_at": "2026-11-15T20:35:04Z",
       "browser_download_url": "https://github.com/telepresenceio/telepresence/releases/download/v2.33.1/telepresence-darwin-amd64.pkg"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 97534530,
       "digest": "sha256:ccb6c0f4361931bbed51fbd75e6304e3de4a9a1620c491fca1950b776463b766",
-      "download_count": 134,
+      "download_count": 328,
       "created_at": "2026-11-15T20:23:16Z",
       "updated_at": "2026-11-15T20:23:19Z",
       "browser_download_url": "https://github.com/telepresenceio/telepresence/releases/download/v2.33.1/telepresence-darwin-arm64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 28104481,
       "digest": "sha256:3731f3b17d2932124781dbfa8f4bb5c30d8580f1eeb26f1d7cfc5ee14ddbe9b2",
-      "download_count": 55,
+      "download_count": 167,
       "created_at": "2026-11-15T20:33:53Z",
       "updated_at": "2026-11-15T20:33:55Z",
       "browser_download_url": "https://github.com/telepresenceio/telepresence/releases/download/v2.33.1/telepresence-darwin-arm64.pkg"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 132862072,
       "digest": "sha256:daf1fbb7499d0e6b34730759504b13fc4170ff1ddcd50d3fa8f17c6c11b3a7bc",
-      "download_count": 25,
+      "download_count": 89,
       "created_at": "2026-11-15T20:23:11Z",
       "updated_at": "2026-11-15T20:23:15Z",
       "browser_download_url": "https://github.com/telepresenceio/telepresence/releases/download/v2.33.1/telepresence-linux-amd64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 39835276,
       "digest": "sha256:f5ac0453bcb418f4e82457a8f0dc4c50d13e4949745efb67e897a984513b213b",
-      "download_count": 9,
+      "download_count": 16,
       "created_at": "2026-11-15T20:23:08Z",
       "updated_at": "2026-11-15T20:23:10Z",
       "browser_download_url": "https://github.com/telepresenceio/telepresence/releases/download/v2.33.1/telepresence-linux-amd64.deb"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 41696899,
       "digest": "sha256:b80531699d2d19a6a7ed00f5c8ffd31d356cf19d2facc9da9f69c553aed4b98c",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-15T20:23:06Z",
       "updated_at": "2026-11-15T20:23:08Z",
       "browser_download_url": "https://github.com/telepresenceio/telepresence/releases/download/v2.33.1/telepresence-linux-amd64.rpm"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 125863888,
       "digest": "sha256:31c2063df488ecd135b3ec24be60635d50ea9640ecfea104e4f6d68ee7ca6e7f",
-      "download_count": 45,
+      "download_count": 410,
       "created_at": "2026-11-15T20:23:00Z",
       "updated_at": "2026-11-15T20:23:05Z",
       "browser_download_url": "https://github.com/telepresenceio/telepresence/releases/download/v2.33.1/telepresence-linux-arm64"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 22999040,
       "digest": "sha256:2412df620255379760b200365dc3402027953f0a65d9e62580ba01e1ba2e10ea",
-      "download_count": 7,
+      "download_count": 26,
       "created_at": "2026-11-15T20:29:02Z",
       "updated_at": "2026-11-15T20:29:03Z",
       "browser_download_url": "https://github.com/telepresenceio/telepresence/releases/download/v2.33.1/telepresence-windows-amd64.msi"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 35908110,
       "digest": "sha256:a3b1b2e474fee0cd2ff4e9f447d8bd04394aef846c8e0bb06dd31159a0eaafc3",
-      "download_count": 11,
+      "download_count": 24,
       "created_at": "2026-11-15T20:29:02Z",
       "updated_at": "2026-11-15T20:29:04Z",
       "browser_download_url": "https://github.com/telepresenceio/telepresence/releases/download/v2.33.1/telepresence-windows-amd64.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 20795392,
       "digest": "sha256:d3f961a6932ea28d710e38e40ed142f9e384786b5729436bce963c9d2e624e7c",
-      "download_count": 3,
+      "download_count": 6,
       "created_at": "2026-11-15T20:28:28Z",
       "updated_at": "2026-11-15T20:28:29Z",
       "browser_download_url": "https://github.com/telepresenceio/telepresence/releases/download/v2.33.1/telepresence-windows-arm64.msi"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 32256321,
       "digest": "sha256:f16097f624bf9e3e1b3bfb001f24fe6f9780d74b39806a1302fbf4c82d91035d",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-11-15T20:28:28Z",
       "updated_at": "2026-11-15T20:28:29Z",
       "browser_download_url": "https://github.com/telepresenceio/telepresence/releases/download/v2.33.1/telepresence-windows-arm64.zip"
